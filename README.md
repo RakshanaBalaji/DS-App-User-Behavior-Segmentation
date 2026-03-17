@@ -58,19 +58,6 @@ Created new features:
 
 ---
 
-## 📊 Visualizations
-
-### 🔹 Elbow Method
-![Elbow Method](/Images/elbow_plot.png)
-
-### 🔹 Cluster Distribution
-![Cluster Plot](/Images/cluster_plot.png)
-
-### 🔹 PCA Visualization
-![PCA](/Images/pca_plot.png)
-
----
-
 ## 🔍 Key Insights
 
 - Identified high-value (power) users
